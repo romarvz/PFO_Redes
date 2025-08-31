@@ -38,7 +38,7 @@ El cliente se conecta al servidor, envía mensajes y muestra la respuesta del se
    ```bash
    python servidor.py
    ```  
-3. El servidor quedará escuchando en localhost:5000.
+3. El servidor quedará escuchando en `localhost:5000`.
 4. En otra terminal, ejecutar el cliente:  
    ```bash
    python cliente.py
